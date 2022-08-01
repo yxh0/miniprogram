@@ -1,2 +1,2 @@
 # My first miniprogram demo
-- [] show netflix price around the world.
+- [ ] show netflix price around the world.
